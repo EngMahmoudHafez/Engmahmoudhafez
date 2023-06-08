@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MAHMOUD MOHAMED ABDO HAFEZ</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=5001&pause=1000&color=BD881E&multiline=true&width=435&height=68&lines=Hi+%F0%9F%91%8B%2C+I'm+MAHMOUD+HAFEZ+;nice+to+meet+you)](https://git.io/typing-svg)
 <h3 align="center">BACKEND DEVELOPER || GRAPHIC DESIGNER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudhafez103&label=Profile%20Views&color=ff3f0f&style=plastic" alt="mahmoudhafez103" /> </p>
