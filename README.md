@@ -1,20 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=5001&pause=1000&color=BD881E&multiline=true&width=435&height=68&lines=Hi+%F0%9F%91%8B%2C+I'm+MAHMOUD+HAFEZ+;nice+to+meet+you)](https://git.io/typing-svg)
-<h3 align="center">BACKEND DEVELOPER || GRAPHIC DESIGNER</h3>
 
 ![GitHub followers](https://img.shields.io/github/followers/mahmoudhafez103?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/mahmoudhafez103?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mahmoudhafez103.repoName) <img src="https://komarev.com/ghpvc/?username=mahmoudhafez103" alt="mahmoudhafez103" />
+
+
+<h3 align="center">BACKEND DEVELOPER || GRAPHIC DESIGNER</h3>
 
   <br>
 <p align="center">
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
-<br><br>
+<br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br>
  
 
 
