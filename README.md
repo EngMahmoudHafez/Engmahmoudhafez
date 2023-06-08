@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=5001&pause=1000&color=BD881E&multiline=true&width=435&height=68&lines=Hi+%F0%9F%91%8B%2C+I'm+MAHMOUD+HAFEZ+;nice+to+meet+you)](https://git.io/typing-svg)
 
-![GitHub followers](https://img.shields.io/github/followers/mahmoudhafez103?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/mahmoudhafez103?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mahmoudhafez103.repoName) <img src="https://komarev.com/ghpvc/?username=mahmoudhafez103" alt="mahmoudhafez103" />
+![GitHub followers](https://img.shields.io/github/followers/mahmoudhafez103?style=social) 
+![GitHub User's stars](https://img.shields.io/github/stars/mahmoudhafez103?style=social) 
+ <img src="https://komarev.com/ghpvc/?username=mahmoudhafez103" alt="mahmoudhafez103" />
 
 
 <h3 align="center">BACKEND DEVELOPER || GRAPHIC DESIGNER</h3>
