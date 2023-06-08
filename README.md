@@ -5,18 +5,17 @@
 
 <h3 align="center">BACKEND DEVELOPER || GRAPHIC DESIGNER</h3>
 
-  <br>
 <p align="center">
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=300px height=300px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br>
  
 
 
@@ -37,9 +36,14 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahmoudhafez103&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![mahmoudhafez103 GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudhafez103&theme=algolia)](https://github.com/mahmoudhafez103/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudhafez103&theme=algolia)](https://github.com/mahmoudhafez103/github-readme-stats) 
 
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudhafez103&theme=algolia)](https://github.com/mahmoudhafez103) <br>
+[![mahmoudhafez103 GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudhafez103&theme=algolia)](https://github.com/mahmoudhafez103) <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahmoudhafez103&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/mahmoudhafez103)<br>
+
+
+
+
 
 ## GitHub Thropies 🏆 :
 
@@ -48,8 +52,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahmoudhafez103)](https://github.com/mahmoudhafez103/github-profile-trophy)
 
 <br>
-## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://raw.githubusercontent.com/mahmoudhafez103/mahmoudhafez103/output/github-contribution-grid-snake.svg)
 
 ## Have a Smiley Day...😃 :<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
