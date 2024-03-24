@@ -32,9 +32,9 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudhafez103&theme=algolia)](https://github.com/mahmoudhafez103) <br>
-[![mahmoudhafez103 GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudhafez103&theme=algolia)](https://github.com/mahmoudhafez103) <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahmoudhafez103&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/mahmoudhafez103)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engmahmoudhafez&theme=algolia)](https://github.com/engmahmoudhafez) <br>
+[![mahmoudhafez103 GitHub stats](https://github-readme-stats.vercel.app/api?username=engmahmoudhafez&theme=algolia)](https://github.com/engmahmoudhafez) <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=engmahmoudhafez&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/engmahmoudhafez)<br>
 
 
 
@@ -44,7 +44,7 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahmoudhafez103)](https://github.com/mahmoudhafez103/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=engmahmoudhafez)](https://github.com/engmahmoudhafez/github-profile-trophy)
 
 <br>
 
@@ -57,7 +57,7 @@
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
 
-Credit: [mahmoudhafez103](https://github.com/mahmoudhafez103)
+Credit: [mahmoudhafez103](https://github.com/engmahmoudhafez)
 
 Last edited on: 09/06/2023
 
