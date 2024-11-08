@@ -12,15 +12,6 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br><br>
- 
-
-
-  
-
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me...***
 <p align="left">
 <a href="https://linkedin.com/in/mahmoud-hafez-3692aa219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-hafez-3692aa219" height="30" width="40" /></a> <a href="https://leetcode.com/engmahmoudhafez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="engmahmoudhafez" height="30" width="40" /></a>
