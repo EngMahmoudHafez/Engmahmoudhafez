@@ -25,9 +25,6 @@
 <br>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=engmahmoudhafez&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/engmahmoudhafez)<br>
-
-
 ## GitHub Thropies 🏆 :
 
 <br>
