@@ -1,38 +1,102 @@
-<div align='center'>
+<div align="center">
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+# 👋 Hello, I'm Mahmoud Hafez
+
+### Backend Developer • Laravel Developer • API Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Developer+💻;Laravel+Developer+🚀;Building+Scalable+Systems+⚡;REST+API+%7C+PHP+%7C+MySQL" />
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=5001&pause=1000&color=BD881E&multiline=true&width=435&height=68&lines=Hi+%F0%9F%91%8B%2C+I'm+MAHMOUD+HAFEZ+;nice+to+meet+you)](https://git.io/typing-svg)
+---
 
+## 💫 About Me
 
+```php
+<?php
 
-<h3 align="center">BACKEND DEVELOPER </h3>
+class MahmoudHafez
+{
+    public string $role = 'Backend Developer';
 
-<br>
+    public array $skills = [
+        'Laravel',
+        'PHP',
+        'MySQL',
+        'REST APIs',
+        'JWT',
+        'OOP',
+        'Git',
+        'Linux'
+    ];
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me...***
-<p align="left">
-<a href="https://linkedin.com/in/mahmoud-hafez-3692aa219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-hafez-3692aa219" height="30" width="40" /></a> 
-</p>
+    public function focus(): string
+    {
+        return 'Building scalable and secure systems';
+    }
+}
+```
 
+---
 
-[![Dynamic DevOps Roadmap](https://devopshive.net/badges/dynamic-devops-roadmap.svg)](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap)
+## 🛠 Tech Stack
 
-## GitHub Stats 📈 :
+<div align="center">
 
-<br>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,github,linux,postman,vscode&theme=dark" />
 
+</div>
 
-## GitHub Thropies 🏆 :
+---
 
-<br>
+## 📊 GitHub Analytics
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=engmahmoudhafez)](https://github.com/engmahmoudhafez/github-profile-trophy)
+<div align="center">
 
-<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engmahmoudhafez&theme=tokyonight" />
 
-## Have a Smiley Day...😃 :<br>
-![Jokes Card](https://readme-jokes.vercel.app/api)
-  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engmahmoudhafez&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=engmahmoudhafez&theme=radical&hide_border=true&background=00000000"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=engmahmoudhafez&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mahmoud-hafez-3692aa219" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Clean Code • Scalable Systems • Better Performance
+
+<img src="https://komarev.com/ghpvc/?username=engmahmoudhafez&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
