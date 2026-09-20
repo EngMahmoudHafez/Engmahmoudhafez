@@ -1,6 +1,6 @@
 <div align="left">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,45:0E75B6,100:58A6FF&section=header&text=Mahmoud%20Hafez&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20PHP%20%26%20Laravel&descSize=18&descAlignY=57&animation=fadeIn" alt="Mahmoud Hafez banner" />
+![Mahmoud Hafez Banner](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,45:0E75B6,100:58A6FF&section=header&text=Mahmoud%20Hafez&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20PHP%20%26%20Laravel&descSize=18&descAlignY=57&animation=fadeIn)
 
 <img align="right" width="390" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer coding animation" />
 
