@@ -1,191 +1,130 @@
-<div align="center">
+<h1 align="center">Mahmoud Hafez</h1>
 
-![Mahmoud Hafez Banner](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,45:0E75B6,100:58A6FF&section=header&text=Mahmoud%20Hafez&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20PHP%20%26%20Laravel&descSize=18&descAlignY=57&animation=fadeIn&v=3)
+<p align="center">
+  <b>Backend Engineer · PHP &amp; Laravel</b><br/>
+  I build the APIs, payment flows and back-office systems behind marketplaces, auctions and booking apps in Saudi Arabia and the MENA region.
+</p>
 
-<a href="https://github.com/EngMahmoudHafez"><img src="https://img.shields.io/github/followers/EngMahmoudHafez?style=for-the-badge&logo=github&label=Followers&color=0E75B6" alt="GitHub followers" /></a>
-<a href="https://www.linkedin.com/in/engmahmoudhafez/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<img src="https://komarev.com/ghpvc/?username=EngMahmoudHafez&style=for-the-badge&color=0E75B6&label=Profile+Views" alt="Profile views" />
-
-</div>
-
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer coding animation" />
-
-## 👋 Hey, I'm Mahmoud
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=850&color=58A6FF&vCenter=true&width=470&lines=Laravel+Backend+Engineer;REST+API+Architect;Queues+%26+Integrations+Specialist;Building+reliable+systems+at+scale" alt="Animated roles" />
-
-I'm a **Backend Engineer from Egypt** specializing in **PHP and Laravel**. I turn complex business requirements into secure APIs, scalable background workflows, and production systems that teams can confidently operate.
-
-- 🔭 Building backend systems for SaaS, marketplaces, booking, education, and e-commerce
-- ⚡ Working with large datasets, Redis queues, Horizon, caching, and API throttling
-- 🔐 Implementing JWT, refresh tokens, OTP, OAuth, roles, and private file delivery
-- 🔌 Integrating payments, SMS, WhatsApp, shipping services, and third-party APIs
-- 📡 Exploring WebSockets, Socket.IO, event-driven services, and Node.js
-- ☁️ Deploying with Docker, Nginx, Linux, AWS, DigitalOcean, and CI/CD
-
-<br clear="right" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/engmahmoudhafez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hafz7062@gmail.com"><img src="https://img.shields.io/badge/hafz7062@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Based_in-Egypt_(remote--friendly)-555?style=flat-square" alt="Based in Egypt" />
+  <img src="https://img.shields.io/badge/Status-Open_to_opportunities-2EA44F?style=flat-square" alt="Open to opportunities" />
+</p>
 
 ---
 
-## 🧰 Tech Stack
+### About
 
-<div align="center">
+I'm a backend engineer at **ElRyad**, where I build and maintain products from first migration to production. Clients are mostly in **Saudi Arabia**. The work is what sits behind the mobile app: REST APIs for Flutter teams, admin dashboards, wallets and payments, identity verification and real-time features.
 
-### Backend
+I'm most useful on the parts of a system that can't be wrong: **money, bookings, bids and permissions**.
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js&theme=dark" alt="PHP, Laravel and JavaScript" />
+### By the numbers · Nov 2023 → Nov 2026
 
-### Data & Performance
-
-<img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark" alt="MySQL and Redis" />
-
-### Infrastructure
-
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,aws,githubactions,git,github&theme=dark" alt="Docker, Nginx, Linux, AWS, GitHub Actions and Git" />
-
-### Product Collaboration
-
-<img src="https://skillicons.dev/icons?i=vue,nextjs,postman,vscode&theme=dark" alt="Vue, Next.js, Postman and VS Code" />
-
-</div>
+| | |
+|---|---|
+| **11** production codebases | **1,400+** commits on **250+** active days |
+| **180+** database migrations written | **140+** test files (feature and unit) |
+| **6** payment gateways integrated or maintained | **2** Saudi government platforms integrated (Nafath, NELC) |
 
 ---
 
-## ⚙️ Backend Expertise
+### Selected work
 
-| API Engineering | Data & Performance | Async Processing |
-|:---:|:---:|:---:|
-| REST API architecture | Query optimization | Redis queues |
-| Mobile-ready responses | Indexing & caching | Laravel Horizon |
-| Validation & resources | Cursor pagination | Batching & throttling |
+> Client repositories are private, so the products are described by domain. I'm happy to walk through the architecture in an interview.
 
-| Security | Integrations | Production |
-|:---:|:---:|:---:|
-| JWT, OTP & OAuth | Payment gateways | Docker & Nginx |
-| Roles & permissions | SMS & WhatsApp | Linux & SSL |
-| Private file delivery | Shipping & external APIs | CI/CD & monitoring |
+#### 🏛️ Real-estate & asset auction platform · KSA
+**Problem:** a bid is a financial commitment, so every bid has to be backed by a verified identity and real wallet funds.<br/>
+**What I built:** the bid-eligibility engine (wallet balance, auction fee, last bid), with clear rejection reasons in Arabic and English · a wallet with deposits, withdrawals and bank transfers, where every balance change goes through a ledger · **Nafath** national-ID verification · an audit log on every auction change · auction and project lifecycle guards.<br/>
+**Quality:** 48 test files, GitHub Actions CI, and a 66-migration schema refactor (*"assets migration: 66/66 green"*).<br/>
+`Laravel 10` `MySQL` `Nafath` `Wallet/Ledger` `PHPUnit` `CI`
 
----
+#### 🩺 Healthcare discovery & pharmacy network
+**Problem:** patients need to find doctors, hospitals and pharmacies, talk to them, and locate medicine that's in stock.<br/>
+**What I built:** the whole backend, as the main contributor (800+ commits) · real-time chat rooms with **audio calls** · FCM push notifications · a medicine-request flow (the patient asks, pharmacies reply with available quantities, the patient orders) · Google sign-in and OTP onboarding · the admin dashboard · CI/CD workflows.<br/>
+`Laravel 10` `Pusher` `Firebase` `Socialite` `GitHub Actions`
 
-## 🚀 Selected Projects
+#### 📅 Clinic booking & payments platform
+**Problem:** booking and paying for clinic visits reliably, with queues, reschedules and refunds.<br/>
+**What I built:** queue-number reservation · an **alternative-appointment** proposal and acceptance flow · **CashiPay** integration with signed per-payment webhook tokens and normalized payment states · wallet and **loyalty tiers** with a points ledger · targeted notifications sent in batches · a Postman suite covering every API, plus an end-to-end flow guide.<br/>
+`Laravel` `JWT` `WebSockets` `CashiPay` `Firebase`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+#### 🛍️ Multi-vendor fashion e-commerce
+**Problem:** sellers on subscription plans, shoppers with carts and returns, and stock that must never oversell.<br/>
+**What I built:** a cart split into pricing, variant and shipping services · transactional order and stock checks · returns and commissions · **Tap** payments and subscription activation · **Aramex** shipping · publication-code redemption.<br/>
+**Quality:** 37 test files.<br/>
+`Laravel 12` `Tap` `Aramex` `Telescope`
 
-### [💳 Payments](https://github.com/EngMahmoudHafez/payments)
+<details>
+<summary><b>More products I've worked on</b></summary>
+<br/>
 
-PHP and Laravel payment-integration experiments and reusable implementation examples.
+| Product | Highlights |
+|---|---|
+| **E-learning portal · KSA** | **NELC xAPI** reporting (registrations, course structure, completions), Saudi national-ID validation, HyperPay, security-audit fixes |
+| **Classifieds & barter marketplace · KSA** | **Geidea** checkout (mada, Apple Pay) with idempotency keys, **WhatsApp Cloud API** OTP, FCM v1, API token expiry and server hardening |
+| **Tire marketplace · KSA** | **Paymob** merchant subscriptions on the Laravel side; Nuxt 4 RTL frontend built from Figma, with ESLint, vue-tsc and Vitest |
+| **Beauty-services booking** | Artist packages, bookings, settlements, chat (Pusher), Paymob |
+| **Medical-centre platform** | Backend and Nuxt frontend contributions |
 
-`PHP` `Laravel` `Payments` `APIs`
-
-</td>
-<td width="50%" valign="top">
-
-### [🏢 Multi-Tenancy](https://github.com/EngMahmoudHafez/Multi-Tenancy)
-
-Exploring multi-tenant architecture and tenant-aware application design in Laravel.
-
-`PHP` `Laravel` `Architecture` `SaaS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🔗 Eloquent Relationships](https://github.com/EngMahmoudHafez/eloquent-relationship)
-
-Practical examples of Eloquent relationships and expressive Laravel data modeling.
-
-`Laravel` `Eloquent` `MySQL` `Data Modeling`
-
-</td>
-<td width="50%" valign="top">
-
-### [🔥 Laravel 12](https://github.com/EngMahmoudHafez/Laravel-12)
-
-Notes and practical examples covering the modern Laravel 11 and 12 project structure.
-
-`Laravel 12` `PHP` `Modern Structure`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[![View All Repositories](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EngMahmoudHafez?tab=repositories)
-
-</div>
+</details>
 
 ---
 
-## 🏗️ Engineering Highlights
+### Integrations
 
-- Designed Laravel APIs consumed by web and Flutter applications.
-- Optimized MySQL systems containing millions of records.
-- Built high-volume workflows with Redis, queues, Horizon, batching, and rate limiting.
-- Implemented secure authentication with JWT, OTP, OAuth, roles, and permissions.
-- Integrated payment, messaging, shipping, OAuth, and business platforms.
-- Protected sensitive documents using private storage and controlled delivery.
-- Diagnosed production issues across PHP-FPM, Nginx, MySQL, SSL, SMTP, queues, and deployments.
+| Domain | Services |
+|---|---|
+| **Payments** | Tap · Paymob · Geidea · HyperPay · CashiPay · Tabby · bank transfers and in-app wallets |
+| **Identity & government** | Nafath (national identity) · NELC xAPI (National eLearning Center) |
+| **Messaging & notifications** | WhatsApp Cloud API · Firebase Cloud Messaging · Pusher / WebSockets · SMTP |
+| **Logistics & other** | Aramex · Google APIs and OAuth · OpenAI |
 
-```php
-final class BackendMindset
-{
-    public function build(Requirement $requirement): ReliableSystem
-    {
-        return $this->understand($requirement)
-            ->designClearContracts()
-            ->modelFailures()
-            ->secureAndOptimize()
-            ->testAndObserve()
-            ->ship();
-    }
-}
+### Tech stack
+
+| | |
+|---|---|
+| **Languages** | PHP 8, JavaScript, TypeScript, SQL |
+| **Backend** | Laravel 7 → 12, Sanctum, JWT, Socialite, queues and jobs, events and observers, Livewire, Telescope |
+| **Data** | MySQL / MariaDB, Redis, query optimization and indexing |
+| **Auth & access** | JWT and refresh tokens, OTP, OAuth, Laratrust / Spatie roles and permissions |
+| **Frontend** | Blade, Vue 3, Nuxt 4, Tailwind, Vuetify, Bootstrap; Arabic RTL and AR/EN localization |
+| **Quality** | PHPUnit, feature tests, Pint, ESLint, Vitest, Postman collections |
+| **Ops** | Docker, Nginx, Linux, GitHub Actions, AWS / DigitalOcean, cPanel |
+
+---
+
+### How I work
+
+- **API contract first.** Resources, error formats and a Postman collection come before the mobile team starts.
+- **Money is a ledger, not a column.** Balance changes are transactional, idempotent and auditable.
+- **Test the paths that cost money.** Auctions, payments and bookings get feature tests before they get refactored.
+- **Leave it better documented than I found it.** Every project gets an `.env.example`, a handover README and flow guides.
+
+### Journey
+
+```text
+2022  Started with PHP and web fundamentals · IEEE student-branch tasks · data structures & algorithms in C++
+2023  ALX Software Engineering programme · Linux, shell, DevOps fundamentals
+2024  ElRyad: owned the backend of a healthcare & pharmacy platform · Google Cloud labs
+2025  Booking, e-commerce and e-learning products (NELC, HyperPay, Tap, Aramex)
+2026  Auction platform with Nafath & wallets · classifieds & tire marketplaces · AI-assisted delivery tooling
 ```
 
----
+### Open source
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=EngMahmoudHafez&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=EngMahmoudHafez&hide_border=true" alt="GitHub contribution streak" />
-</picture>
-
-<br />
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EngMahmoudHafez&theme=tokyonight" alt="GitHub contribution activity" />
-
-</div>
+| Repository | Description |
+|---|---|
+| [hafez-development-system](https://github.com/EngMahmoudHafez/hafez-development-system) | A skills-first operating system for AI-assisted delivery: planning, verification and shipping with coding agents |
+| [stocky](https://github.com/EngMahmoudHafez/stocky) · [inventory-adjustment-api](https://github.com/EngMahmoudHafez/inventory-adjustment-api) | Inventory and stock-adjustment APIs |
+| [Multi-Tenancy](https://github.com/EngMahmoudHafez/Multi-Tenancy) | Tenant-aware SaaS architecture in Laravel |
+| [payments](https://github.com/EngMahmoudHafez/payments) | Payment-gateway integration patterns |
+| [Laravel-12](https://github.com/EngMahmoudHafez/Laravel-12) · [eloquent-relationship](https://github.com/EngMahmoudHafez/eloquent-relationship) | Guides to modern Laravel structure and Eloquent modelling |
 
 ---
 
-## 🌱 Currently Working On
-
-- Advanced system design and scalable backend architecture
-- Real-time communication and WebSocket infrastructure
-- Automated testing, observability, and application reliability
-- Node.js services that complement Laravel applications
-- Practical AI integrations for production products
-
----
-
-## 🤝 Let's Connect
-
-I'm open to **backend engineering opportunities**, challenging Laravel projects, API integrations, and products that need dependable architecture at scale.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/engmahmoudhafez/"><img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Hafez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:hafz7062@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://wa.me/201068063836"><img src="https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-
-### `Clean code · Reliable systems · Continuous improvement`
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,45:0E75B6,100:58A6FF&section=footer&v=3" alt="Footer wave" />
+<p align="center">
+  <b>Need a backend that handles money, bookings or bids correctly?</b><br/>
+  <a href="https://www.linkedin.com/in/engmahmoudhafez/">LinkedIn</a> · <a href="mailto:hafz7062@gmail.com">Email</a> · <a href="https://wa.me/201068063836">WhatsApp</a>
+</p>
